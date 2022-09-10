@@ -1,4 +1,4 @@
-**NB! Requires root permissions:
+**NB! Requires root permissions:**
 
 ```sh
 root@dragon:/var/lib/rancher/k3s# ls -lah
